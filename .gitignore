@@ -1,0 +1,3 @@
+logs/*.log
+test.html
+!logs/sample.log
